@@ -1,0 +1,22 @@
+{
+    "name": "only-comments",
+    "displayName": "only comments",
+    "description": "extremely plain color theme",
+    "version": "0.0.1",
+    "publisher": "sleepylemur",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "comments only",
+                "uiTheme": "vs-dark",
+                "path": "./themes/comments only-color-theme.json"
+            }
+        ]
+    }
+}
